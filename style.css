@@ -33,6 +33,86 @@ main {
   height: 18%;
 }
 
+.pokemon__name.normal {
+  color: #a4acac;
+}
+
+.pokemon__name.water {
+  color: #4494c4;
+}
+
+.pokemon__name.fire {
+  color: #fc7c24;
+}
+
+.pokemon__name.grass {
+  color: #9ccc54;
+}
+
+.pokemon__name.flying {
+  background: linear-gradient(to bottom, #3cc4ec 50%,#bcbcbc 50%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.pokemon__name.fighting {
+  color: #d86424;
+}
+
+.pokemon__name.poison {
+  color: #bc7ccc;
+}
+
+.pokemon__name.electric {
+  color: #ebcf34;
+}
+
+.pokemon__name.ground {
+	background: linear-gradient(to bottom, #d3be34 50%,#ac9c44 50%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.pokemon__name.rock {
+  color: #a48c24;
+}
+
+.pokemon__name.psychic {
+  color: #f864bc;
+}
+
+.pokemon__name.ice {
+  color: #54c4e4;
+}
+
+.pokemon__name.bug {
+  color: #749c3c;
+}
+
+.pokemon__name.ghost {
+  color: #8064a4;
+}
+
+.pokemon__name.steel {
+  color: #9cb4bc;
+}
+
+.pokemon__name.dragon {
+  background: linear-gradient(to bottom, #54a4cc 50%,#f46c54 50%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.pokemon__name.dark {
+  color: #3a444d;
+}
+
+.pokemon__name.fairy {
+  color: #fab4e9;
+}
 
 .pokemon_background{
     position: absolute;
